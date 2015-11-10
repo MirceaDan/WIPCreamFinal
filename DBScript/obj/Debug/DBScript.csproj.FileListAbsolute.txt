@@ -1,0 +1,10 @@
+D:\Source\Training Projects\Projects\WIPCream\DBScript\bin\Debug\DBScript.dll
+D:\Source\Training Projects\Projects\WIPCream\DBScript\bin\Debug\DBScript.pdb
+D:\Source\Training Projects\Projects\WIPCream\DBScript\obj\Debug\DBScript.dll
+D:\Source\Training Projects\Projects\WIPCream\DBScript\obj\Debug\DBScript.pdb
+D:\Source\Training Projects\Projects\WIPCream\DBScript\obj\Debug\DBScript.csprojResolveAssemblyReference.cache
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\DBScript\bin\Debug\DBScript.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\DBScript\bin\Debug\DBScript.pdb
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\DBScript\obj\Debug\DBScript.csprojResolveAssemblyReference.cache
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\DBScript\obj\Debug\DBScript.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\DBScript\obj\Debug\DBScript.pdb

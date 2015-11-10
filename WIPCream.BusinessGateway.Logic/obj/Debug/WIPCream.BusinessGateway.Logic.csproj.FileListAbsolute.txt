@@ -1,0 +1,14 @@
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\obj\Debug\WIPCream.BusinessGateway.Logic.csprojResolveAssemblyReference.cache
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\obj\Debug\WIPCream.BusinessGateway.Logic.Properties.Resources.resources
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\obj\Debug\WIPCream.BusinessGateway.Logic.csproj.GenerateResource.Cache
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\WIPCream.BusinessGateway.Logic2.dll.config
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\WIPCream.BusinessGateway.Logic2.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\WIPCream.BusinessGateway.Logic2.pdb
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\AutoMapper.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\EntityFramework.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\AutoMapper.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\EntityFramework.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\obj\Debug\WIPCream.BusinessGateway.Logic2.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\obj\Debug\WIPCream.BusinessGateway.Logic2.pdb

@@ -1,0 +1,14 @@
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic.UnitTest\bin\Debug\WIPCream.BusinessGateway.Logic.UnitTest.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic.UnitTest\bin\Debug\WIPCream.BusinessGateway.Logic.UnitTest.pdb
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic.UnitTest\obj\Debug\WIPCream.BusinessGateway.Logic.UnitTest.csprojResolveAssemblyReference.cache
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic.UnitTest\obj\Debug\WIPCream.BusinessGateway.Logic.UnitTest.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic.UnitTest\obj\Debug\WIPCream.BusinessGateway.Logic.UnitTest.pdb
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic.UnitTest\bin\Debug\WIPCream.BusinessGateway.Logic.UnitTest.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic.UnitTest\bin\Debug\WIPCream.BusinessGateway.Logic.UnitTest.pdb
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic.UnitTest\obj\Debug\WIPCream.BusinessGateway.Logic.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic.UnitTest\obj\Debug\WIPCream.BusinessGateway.Logic.UnitTest.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic.UnitTest\obj\Debug\WIPCream.BusinessGateway.Logic.UnitTest.pdb

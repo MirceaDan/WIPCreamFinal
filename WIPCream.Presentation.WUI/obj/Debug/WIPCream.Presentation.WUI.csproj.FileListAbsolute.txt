@@ -1,0 +1,217 @@
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\obj\Debug\WIPCream.Presentation.WUI.csprojResolveAssemblyReference.cache
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\csc.exe
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\vbc.exe
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\VBCSCompiler.exe
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WIPCream.Presentation.WUI.dll.config
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WIPCream.Presentation.WUI.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WIPCream.Presentation.WUI.pdb
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Antlr3.Runtime.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\AutoMapper.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\EntityFramework.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\EntityFramework.SqlServer.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.AspNet.Identity.Core.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Cookies.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Facebook.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Google.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.OAuth.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Twitter.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Newtonsoft.Json.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Owin.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Helpers.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Mvc.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Optimization.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Razor.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.WebPages.Deployment.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.WebPages.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.WebPages.Razor.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WebGrease.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\AutoMapper.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Helpers.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Mvc.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Optimization.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Razor.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.WebPages.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.WebPages.Deployment.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.WebPages.Razor.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Antlr3.Runtime.pdb
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Newtonsoft.Json.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\EntityFramework.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\EntityFramework.SqlServer.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.AspNet.Identity.Core.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Facebook.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Cookies.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.OAuth.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Google.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Twitter.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\obj\Debug\WIPCream.Presentation.WUI.dll
+c:\Users\mircea suceveanu\documents\visual studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\obj\Debug\WIPCream.Presentation.WUI.pdb
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\csc.exe
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\System.Collections.Immutable.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\vbc.exe
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\VBCSCompiler.exe
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\VBCSCompiler.exe.config
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WIPCream.Presentation.WUI.dll.config
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WIPCream.Presentation.WUI.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WIPCream.Presentation.WUI.pdb
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Antlr3.Runtime.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\AutoMapper.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\EntityFramework.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\EntityFramework.SqlServer.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.AspNet.Identity.Core.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Cookies.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Facebook.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Google.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.OAuth.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Twitter.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Web.Infrastructure.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Newtonsoft.Json.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Owin.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Helpers.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Mvc.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Optimization.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Razor.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.WebPages.Deployment.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.WebPages.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.WebPages.Razor.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WebGrease.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\AutoMapper.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Helpers.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Mvc.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Optimization.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Razor.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.WebPages.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.WebPages.Deployment.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.WebPages.Razor.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Antlr3.Runtime.pdb
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Newtonsoft.Json.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\EntityFramework.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\EntityFramework.SqlServer.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.AspNet.Identity.Core.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Facebook.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Cookies.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.OAuth.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Google.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Twitter.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\obj\Debug\WIPCream.Presentation.WUI.csprojResolveAssemblyReference.cache
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\obj\Debug\WIPCream.Presentation.WUI.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\obj\Debug\WIPCream.Presentation.WUI.pdb
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\obj\Debug\WIPCream.Presentation.WUI.csprojResolveAssemblyReference.cache
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\obj\Debug\WIPCream.Presentation.WUI.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\obj\Debug\WIPCream.Presentation.WUI.pdb
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\csc.exe
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\vbc.exe
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\VBCSCompiler.exe
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WIPCream.Presentation.WUI.dll.config
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WIPCream.Presentation.WUI.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WIPCream.Presentation.WUI.pdb
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Antlr3.Runtime.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\AutoMapper.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\EntityFramework.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\EntityFramework.SqlServer.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Newtonsoft.Json.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Owin.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Helpers.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Mvc.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Optimization.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Razor.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.WebPages.Deployment.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.WebPages.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.WebPages.Razor.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WebGrease.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WIPCream.BusinessGateway.Logic.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WIPCream.DataGateway.DAL2.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WIPCream.BusinessGateway.Logic.pdb
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\AutoMapper.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Helpers.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Mvc.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Optimization.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.Razor.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.WebPages.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.WebPages.Deployment.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\System.Web.WebPages.Razor.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Antlr3.Runtime.pdb
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Newtonsoft.Json.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\EntityFramework.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\EntityFramework.SqlServer.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WIPCream.DataGateway.DAL2.pdb

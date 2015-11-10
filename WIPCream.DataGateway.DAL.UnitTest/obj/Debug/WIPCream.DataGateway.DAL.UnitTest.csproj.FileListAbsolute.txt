@@ -1,0 +1,18 @@
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.DataGateway.DAL.UnitTest\bin\Debug\WIPCream.DataGateway.DAL.UnitTest.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.DataGateway.DAL.UnitTest\bin\Debug\WIPCream.DataGateway.DAL.UnitTest.pdb
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.DataGateway.DAL.UnitTest\bin\Debug\Iesi.Collections.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.DataGateway.DAL.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.DataGateway.DAL.UnitTest\bin\Debug\Iesi.Collections.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.DataGateway.DAL.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.DataGateway.DAL.UnitTest\obj\Debug\WIPCream.DataGateway.DAL.UnitTest.csprojResolveAssemblyReference.cache
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.DataGateway.DAL.UnitTest\obj\Debug\WIPCream.DataGateway.DAL.UnitTest.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.DataGateway.DAL.UnitTest\obj\Debug\WIPCream.DataGateway.DAL.UnitTest.pdb
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.DataGateway.DAL.UnitTest\bin\Debug\WIPCream.DataGateway.DAL.UnitTest.dll.config
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.DataGateway.DAL.UnitTest\bin\Debug\WIPCream.DataGateway.DAL.UnitTest.dll.config
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.DataGateway.DAL.UnitTest\bin\Debug\WIPCream.DataGateway.DAL.UnitTest.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.DataGateway.DAL.UnitTest\bin\Debug\WIPCream.DataGateway.DAL.UnitTest.pdb
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.DataGateway.DAL.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.DataGateway.DAL.UnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.DataGateway.DAL.UnitTest\obj\Debug\WIPCream.DataGateway.DAL.UnitTest.csprojResolveAssemblyReference.cache
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.DataGateway.DAL.UnitTest\obj\Debug\WIPCream.DataGateway.DAL.UnitTest.dll
+C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.DataGateway.DAL.UnitTest\obj\Debug\WIPCream.DataGateway.DAL.UnitTest.pdb

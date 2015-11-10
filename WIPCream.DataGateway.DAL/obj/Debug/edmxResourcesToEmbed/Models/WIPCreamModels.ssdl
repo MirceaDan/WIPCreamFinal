@@ -1,0 +1,199 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="WIPCreamModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Assignment">
+    <Key>
+      <PropertyRef Name="AssignmentId" />
+    </Key>
+    <Property Name="AssignmentId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DisciplineId" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Description" Type="nvarchar" MaxLength="500" />
+    <Property Name="CreatedAt" Type="datetime" />
+    <Property Name="Deadline" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Course">
+    <Key>
+      <PropertyRef Name="CourseId" />
+    </Key>
+    <Property Name="CourseId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DisciplineId" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Description" Type="nvarchar" MaxLength="500" />
+    <Property Name="CreatedAt" Type="datetime" />
+    <Property Name="Deadline" Type="datetime" />
+  </EntityType>
+  <EntityType Name="Discipline">
+    <Key>
+      <PropertyRef Name="DisciplineId" />
+    </Key>
+    <Property Name="DisciplineId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Groupe">
+    <Key>
+      <PropertyRef Name="GroupeId" />
+    </Key>
+    <Property Name="GroupeId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DisciplineId" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="Description" Type="nvarchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="Test">
+    <Key>
+      <PropertyRef Name="TestId" />
+    </Key>
+    <Property Name="TestId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DisciplineId" Type="int" Nullable="false" />
+    <Property Name="Name" Type="nvarchar" MaxLength="50" />
+    <Property Name="CreatedAt" Type="datetime" />
+  </EntityType>
+  <EntityType Name="UserDiscipline">
+    <Key>
+      <PropertyRef Name="UserDisciplineId" />
+    </Key>
+    <Property Name="UserDisciplineId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UsereId" Type="int" Nullable="false" />
+    <Property Name="DisciplineId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="UserRole">
+    <Key>
+      <PropertyRef Name="RoleId" />
+    </Key>
+    <Property Name="RoleId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserId" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="UserId" />
+    </Key>
+    <Property Name="UserId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UserName" Type="nvarchar" MaxLength="50" />
+    <Property Name="FirstName" Type="nvarchar" MaxLength="50" />
+    <Property Name="Lastname" Type="nvarchar" MaxLength="50" />
+    <Property Name="Email" Type="nvarchar" MaxLength="100" />
+    <Property Name="StudentId" Type="int" />
+    <Property Name="Password" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <Association Name="FK__Assignmen__Disci__1273C1CD">
+    <End Role="Discipline" Type="Self.Discipline" Multiplicity="1" />
+    <End Role="Assignment" Type="Self.Assignment" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Discipline">
+        <PropertyRef Name="DisciplineId" />
+      </Principal>
+      <Dependent Role="Assignment">
+        <PropertyRef Name="DisciplineId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Course__Discipli__182C9B23">
+    <End Role="Discipline" Type="Self.Discipline" Multiplicity="1" />
+    <End Role="Course" Type="Self.Course" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Discipline">
+        <PropertyRef Name="DisciplineId" />
+      </Principal>
+      <Dependent Role="Course">
+        <PropertyRef Name="DisciplineId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Groupe__Discipli__1B0907CE">
+    <End Role="Discipline" Type="Self.Discipline" Multiplicity="1" />
+    <End Role="Groupe" Type="Self.Groupe" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Discipline">
+        <PropertyRef Name="DisciplineId" />
+      </Principal>
+      <Dependent Role="Groupe">
+        <PropertyRef Name="DisciplineId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Test__Discipline__15502E78">
+    <End Role="Discipline" Type="Self.Discipline" Multiplicity="1" />
+    <End Role="Test" Type="Self.Test" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Discipline">
+        <PropertyRef Name="DisciplineId" />
+      </Principal>
+      <Dependent Role="Test">
+        <PropertyRef Name="DisciplineId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__UserDisci__Disci__20C1E124">
+    <End Role="Discipline" Type="Self.Discipline" Multiplicity="1" />
+    <End Role="UserDiscipline" Type="Self.UserDiscipline" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Discipline">
+        <PropertyRef Name="DisciplineId" />
+      </Principal>
+      <Dependent Role="UserDiscipline">
+        <PropertyRef Name="DisciplineId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__UserDisci__Usere__1FCDBCEB">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="UserDiscipline" Type="Self.UserDiscipline" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="UserDiscipline">
+        <PropertyRef Name="UsereId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__UserRole__UserId__239E4DCF">
+    <End Role="Users" Type="Self.Users" Multiplicity="1" />
+    <End Role="UserRole" Type="Self.UserRole" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Users">
+        <PropertyRef Name="UserId" />
+      </Principal>
+      <Dependent Role="UserRole">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="WIPCreamModelStoreContainer">
+    <EntitySet Name="Assignment" EntityType="Self.Assignment" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Course" EntityType="Self.Course" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Discipline" EntityType="Self.Discipline" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Groupe" EntityType="Self.Groupe" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Test" EntityType="Self.Test" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserDiscipline" EntityType="Self.UserDiscipline" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="UserRole" EntityType="Self.UserRole" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Assignmen__Disci__1273C1CD" Association="Self.FK__Assignmen__Disci__1273C1CD">
+      <End Role="Discipline" EntitySet="Discipline" />
+      <End Role="Assignment" EntitySet="Assignment" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Course__Discipli__182C9B23" Association="Self.FK__Course__Discipli__182C9B23">
+      <End Role="Discipline" EntitySet="Discipline" />
+      <End Role="Course" EntitySet="Course" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Groupe__Discipli__1B0907CE" Association="Self.FK__Groupe__Discipli__1B0907CE">
+      <End Role="Discipline" EntitySet="Discipline" />
+      <End Role="Groupe" EntitySet="Groupe" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Test__Discipline__15502E78" Association="Self.FK__Test__Discipline__15502E78">
+      <End Role="Discipline" EntitySet="Discipline" />
+      <End Role="Test" EntitySet="Test" />
+    </AssociationSet>
+    <AssociationSet Name="FK__UserDisci__Disci__20C1E124" Association="Self.FK__UserDisci__Disci__20C1E124">
+      <End Role="Discipline" EntitySet="Discipline" />
+      <End Role="UserDiscipline" EntitySet="UserDiscipline" />
+    </AssociationSet>
+    <AssociationSet Name="FK__UserDisci__Usere__1FCDBCEB" Association="Self.FK__UserDisci__Usere__1FCDBCEB">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="UserDiscipline" EntitySet="UserDiscipline" />
+    </AssociationSet>
+    <AssociationSet Name="FK__UserRole__UserId__239E4DCF" Association="Self.FK__UserRole__UserId__239E4DCF">
+      <End Role="Users" EntitySet="Users" />
+      <End Role="UserRole" EntitySet="UserRole" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
