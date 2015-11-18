@@ -215,3 +215,11 @@ C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presen
 C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WIPCream.DataGateway.DAL2.pdb
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\PagedList.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\PagedList.Mvc.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WIPCream.BusinessGateway.Logic.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WIPCream.DataGateway.DAL2.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WIPCream.BusinessGateway.Logic.pdb
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\WIPCream.DataGateway.DAL2.pdb
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\PagedList.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.Presentation.WUI\bin\PagedList.Mvc.xml

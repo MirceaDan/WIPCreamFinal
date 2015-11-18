@@ -15,6 +15,7 @@ using WIPCream.Presentation.WUI.Models.User;
 
 namespace WIPCream.Presentation.WUI.Controllers
 {
+    [Authorize]
     public class UsersController : Controller
     {
         //private WIPCreamEntities db = new WIPCreamEntities();

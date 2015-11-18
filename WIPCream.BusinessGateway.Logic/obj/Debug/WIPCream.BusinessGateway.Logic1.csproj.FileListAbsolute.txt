@@ -1,7 +1,6 @@
 D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic\obj\Debug\WIPCream.BusinessGateway.Logic1.csprojResolveAssemblyReference.cache
 D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic\obj\Debug\WIPCream.BusinessGateway.Logic.Properties.Resources.resources
 D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic\obj\Debug\WIPCream.BusinessGateway.Logic1.csproj.GenerateResource.Cache
-D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\WIPCream.BusinessGateway.Logic.exe.config
 C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\obj\Debug\WIPCream.BusinessGateway.Logic1.csprojResolveAssemblyReference.cache
 C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\obj\Debug\WIPCream.BusinessGateway.Logic.Properties.Resources.resources
 C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\obj\Debug\WIPCream.BusinessGateway.Logic1.csproj.GenerateResource.Cache
@@ -18,3 +17,16 @@ C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.Busine
 C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\obj\Debug\WIPCream.BusinessGateway.Logic.dll
 C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.BusinessGateway.Logic\obj\Debug\WIPCream.BusinessGateway.Logic.pdb
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic\obj\Debug\WIPCream.BusinessGateway.Logic.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic\obj\Debug\WIPCream.BusinessGateway.Logic.pdb
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\WIPCream.BusinessGateway.Logic.dll.config
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\WIPCream.BusinessGateway.Logic.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\WIPCream.BusinessGateway.Logic.pdb
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\AutoMapper.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\EntityFramework.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\EntityFramework.SqlServer.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\WIPCream.DataGateway.DAL2.dll
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\WIPCream.DataGateway.DAL2.pdb
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\AutoMapper.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\EntityFramework.xml
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.BusinessGateway.Logic\bin\Debug\EntityFramework.SqlServer.xml

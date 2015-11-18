@@ -29,8 +29,8 @@ namespace WIPCream.Presentation.WUI.Models.User
         public string Password { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<UserDiscipline> UserDiscipline { get; set; }
+        public virtual ICollection<WIPCream.DataGateway.DAL2.Models.UserDisciplines> UserDiscipline { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<UserRole> UserRole { get; set; }
+        public virtual ICollection<WIPCream.DataGateway.DAL2.Models.UserRoles> UserRole { get; set; }
     }
 }

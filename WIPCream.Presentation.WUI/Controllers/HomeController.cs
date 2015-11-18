@@ -15,7 +15,7 @@ namespace WIPCream.Presentation.WUI.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "Superuser functionality. Do CRUD operations on ALL sections of WIPCream";
 
             return View();
         }

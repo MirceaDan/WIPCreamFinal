@@ -62,9 +62,33 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Model\AssignmentDTO.cs" />
+    <Compile Include="Model\AssignmentListDTO.cs" />
+    <Compile Include="Model\CourseDTO.cs" />
+    <Compile Include="Model\CourseListDTO.cs" />
+    <Compile Include="Model\DisciplineDTO.cs" />
+    <Compile Include="Model\DisciplineListDTO.cs" />
+    <Compile Include="Model\TestDTO.cs" />
+    <Compile Include="Model\TestListDTO.cs" />
+    <Compile Include="Model\UserDisciplineDTO.cs" />
+    <Compile Include="Model\UserDisciplineListDTO.cs" />
+    <Compile Include="Model\UserRoleDTO.cs" />
+    <Compile Include="Model\UserRoleListDO.cs" />
     <Compile Include="Model\UsersDTO.cs" />
     <Compile Include="Model\UsersListDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\Assignments\AssignmentBusinessService.cs" />
+    <Compile Include="Services\Assignments\IAssignmentBusinessSerevice.cs" />
+    <Compile Include="Services\Course\CourseBusinessService.cs" />
+    <Compile Include="Services\Course\ICourseBusinessService.cs" />
+    <Compile Include="Services\Disciplines\DisciplineBusinessService.cs" />
+    <Compile Include="Services\Disciplines\IDisciplineBusinessService.cs" />
+    <Compile Include="Services\Test\ITestBusinessService.cs" />
+    <Compile Include="Services\Test\TestBusinessService.cs" />
+    <Compile Include="Services\UserDisciplines\IUserDisciplineBusinessService.cs" />
+    <Compile Include="Services\UserDisciplines\UserDisciplineBusinessService.cs" />
+    <Compile Include="Services\UserRoles\IUserRoleBusinessService.cs" />
+    <Compile Include="Services\UserRoles\UserRoleBusinessService.cs" />
     <Compile Include="Services\User\IUsersBusinessService.cs" />
     <Compile Include="Services\User\UsersBusinessService.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">

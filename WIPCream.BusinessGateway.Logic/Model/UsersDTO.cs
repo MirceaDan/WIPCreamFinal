@@ -31,9 +31,9 @@ namespace WIPCream.BusinessGateway.Logic.Model
         public string Password { get; set; }
 
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<UserDiscipline> UserDiscipline { get; set; }
+        public virtual ICollection<UserDisciplines> UserDiscipline { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<UserRole> UserRole { get; set; }
+        public virtual ICollection<UserRoles> UserRole { get; set; }
 
     }
 }

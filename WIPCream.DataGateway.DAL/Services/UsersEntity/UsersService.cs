@@ -10,11 +10,11 @@ namespace WIPCream.DataGateway.DAL2.Services.UsersEntity
 {
     public class UsersService:IUsersService
     {
-        private WIPCreamEntities db;
+        private WIPCream2 db;
 
         public UsersService()
         {
-            db = new WIPCreamEntities();
+            db = new WIPCream2();
         }
 
         public string CreateEntity(Users model)
@@ -41,7 +41,11 @@ namespace WIPCream.DataGateway.DAL2.Services.UsersEntity
 
         public Users FindByEmail(string email)
         {
-            return db.Users.Find(email);
+            List<Users> list = RetrieveAll();
+            for(int i=0;i<list.Count;i++)
+                if (list[i].Email.Equals(email))
+                    return list[i];
+            return null;
         }
 
         public string DeleteEntity(int id)

@@ -176,23 +176,53 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="App_Helper\AssignmentHelper.cs" />
+    <Compile Include="App_Helper\AutoMapper\AssignmentMapper.cs" />
+    <Compile Include="App_Helper\AutoMapper\CourseMapper.cs" />
+    <Compile Include="App_Helper\AutoMapper\DisciplineMapper.cs" />
+    <Compile Include="App_Helper\AutoMapper\TestMapper.cs" />
+    <Compile Include="App_Helper\AutoMapper\UserDisciplineMapper.cs" />
     <Compile Include="App_Helper\AutoMapper\UserMapper.cs" />
+    <Compile Include="App_Helper\AutoMapper\UserRoleMapper.cs" />
+    <Compile Include="App_Helper\CourseHelper.cs" />
+    <Compile Include="App_Helper\DisciplineHelper.cs" />
+    <Compile Include="App_Helper\TestHelper.cs" />
+    <Compile Include="App_Helper\UserDisciplineHelper.cs" />
     <Compile Include="App_Helper\UserHelper.cs" />
+    <Compile Include="App_Helper\UserRoleHelper.cs" />
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\IdentityConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Controllers\AccountController.cs" />
+    <Compile Include="Controllers\AssignmentsController.cs" />
+    <Compile Include="Controllers\CoursesController.cs" />
+    <Compile Include="Controllers\DisciplinesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ManageController.cs" />
+    <Compile Include="Controllers\TestsController.cs" />
+    <Compile Include="Controllers\UserDisciplinesController.cs" />
+    <Compile Include="Controllers\UserRolesController.cs" />
     <Compile Include="Controllers\UsersController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
+    <Compile Include="Models\Assignment\AssignmentListUIDTO.cs" />
+    <Compile Include="Models\Assignment\AssignmentUIDTO.cs" />
+    <Compile Include="Models\Course\CourseListUIDTO.cs" />
+    <Compile Include="Models\Course\CourseUIDTO.cs" />
+    <Compile Include="Models\Discipline\DisciplineListUIDTO.cs" />
+    <Compile Include="Models\Discipline\DisciplineUIDTO.cs" />
     <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
+    <Compile Include="Models\Test\TestListUIDTO.cs" />
+    <Compile Include="Models\Test\TestUIDTO.cs" />
+    <Compile Include="Models\UserDiscipline\UserDisciplineListUIDTO.cs" />
+    <Compile Include="Models\UserDiscipline\UserDisciplineUIDTO.cs" />
+    <Compile Include="Models\UserRole\UserRoleListUIDTO.cs" />
+    <Compile Include="Models\UserRole\UserRoleUIDTO.cs" />
     <Compile Include="Models\User\UserListUIDTO.cs" />
     <Compile Include="Models\User\UserUIDTO.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -259,6 +289,36 @@
     <Content Include="Views\Users\Details.cshtml" />
     <Content Include="Views\Users\Edit.cshtml" />
     <Content Include="Views\Users\Index.cshtml" />
+    <Content Include="Views\UserRoles\Create.cshtml" />
+    <Content Include="Views\UserRoles\Delete.cshtml" />
+    <Content Include="Views\UserRoles\Details.cshtml" />
+    <Content Include="Views\UserRoles\Edit.cshtml" />
+    <Content Include="Views\UserRoles\Index.cshtml" />
+    <Content Include="Views\UserDisciplines\Create.cshtml" />
+    <Content Include="Views\UserDisciplines\Delete.cshtml" />
+    <Content Include="Views\UserDisciplines\Details.cshtml" />
+    <Content Include="Views\UserDisciplines\Edit.cshtml" />
+    <Content Include="Views\UserDisciplines\Index.cshtml" />
+    <Content Include="Views\Disciplines\Create.cshtml" />
+    <Content Include="Views\Disciplines\Delete.cshtml" />
+    <Content Include="Views\Disciplines\Details.cshtml" />
+    <Content Include="Views\Disciplines\Edit.cshtml" />
+    <Content Include="Views\Disciplines\Index.cshtml" />
+    <Content Include="Views\Assignments\Create.cshtml" />
+    <Content Include="Views\Assignments\Delete.cshtml" />
+    <Content Include="Views\Assignments\Details.cshtml" />
+    <Content Include="Views\Assignments\Edit.cshtml" />
+    <Content Include="Views\Assignments\Index.cshtml" />
+    <Content Include="Views\Tests\Create.cshtml" />
+    <Content Include="Views\Tests\Delete.cshtml" />
+    <Content Include="Views\Tests\Details.cshtml" />
+    <Content Include="Views\Tests\Edit.cshtml" />
+    <Content Include="Views\Tests\Index.cshtml" />
+    <Content Include="Views\Courses\Create.cshtml" />
+    <Content Include="Views\Courses\Delete.cshtml" />
+    <Content Include="Views\Courses\Details.cshtml" />
+    <Content Include="Views\Courses\Edit.cshtml" />
+    <Content Include="Views\Courses\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

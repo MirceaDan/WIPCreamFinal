@@ -5,7 +5,6 @@ D:\Source\Training Projects\Projects\WIPCream\WIPCream.DataGateway.DAL\bin\Debug
 D:\Source\Training Projects\Projects\WIPCream\WIPCream.DataGateway.DAL\bin\Debug\EntityFramework.SqlServer.dll
 D:\Source\Training Projects\Projects\WIPCream\WIPCream.DataGateway.DAL\bin\Debug\EntityFramework.xml
 D:\Source\Training Projects\Projects\WIPCream\WIPCream.DataGateway.DAL\bin\Debug\EntityFramework.SqlServer.xml
-D:\Source\Training Projects\Projects\WIPCream\WIPCream.DataGateway.DAL\obj\Debug\WIPCream.DataGateway.DAL.csprojResolveAssemblyReference.cache
 D:\Source\Training Projects\Projects\WIPCream\WIPCream.DataGateway.DAL\obj\Debug\WIPCream.DataGateway.DAL2.dll
 D:\Source\Training Projects\Projects\WIPCream\WIPCream.DataGateway.DAL\obj\Debug\WIPCream.DataGateway.DAL2.pdb
 C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.DataGateway.DAL\bin\Debug\WIPCream.DataGateway.DAL2.dll.config
@@ -17,3 +16,4 @@ C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.DataGa
 C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.DataGateway.DAL\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.DataGateway.DAL\obj\Debug\WIPCream.DataGateway.DAL2.dll
 C:\Users\z003j5jv\Documents\Visual Studio 2015\Projects\WIPCream\WIPCream.DataGateway.DAL\obj\Debug\WIPCream.DataGateway.DAL2.pdb
+D:\Source\Training Projects\Projects\WIPCream\WIPCream.DataGateway.DAL\obj\Debug\WIPCream.DataGateway.DAL.csprojResolveAssemblyReference.cache

@@ -51,75 +51,38 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Models\Assignment.cs">
-      <DependentUpon>WIPCreamModels.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\Course.cs">
-      <DependentUpon>WIPCreamModels.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\Discipline.cs">
-      <DependentUpon>WIPCreamModels.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\Groupe.cs">
-      <DependentUpon>WIPCreamModels.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\Test.cs">
-      <DependentUpon>WIPCreamModels.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\UserDiscipline.cs">
-      <DependentUpon>WIPCreamModels.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\UserRole.cs">
-      <DependentUpon>WIPCreamModels.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\Users.cs">
-      <DependentUpon>WIPCreamModels.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\WIPCreamModels.Context.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>WIPCreamModels.Context.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\WIPCreamModels.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>WIPCreamModels.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\WIPCreamModels.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>WIPCreamModels.edmx</DependentUpon>
-    </Compile>
+    <Compile Include="Models\Assignments.cs" />
+    <Compile Include="Models\Courses.cs" />
+    <Compile Include="Models\Disciplines.cs" />
+    <Compile Include="Models\Groups.cs" />
+    <Compile Include="Models\Tests.cs" />
+    <Compile Include="Models\UserDisciplines.cs" />
+    <Compile Include="Models\UserRoles.cs" />
+    <Compile Include="Models\Users.cs" />
+    <Compile Include="Models\WIPCream2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Services\AssignmentEntity\AssignmentService.cs" />
+    <Compile Include="Services\AssignmentEntity\IAssignmentService.cs" />
+    <Compile Include="Services\CourseEntity\CourseService.cs" />
+    <Compile Include="Services\CourseEntity\ICourseService.cs" />
+    <Compile Include="Services\DisciplineEntity\DisciplineService.cs" />
+    <Compile Include="Services\DisciplineEntity\IDisciplineService.cs" />
+    <Compile Include="Services\TestEntity\ITestService.cs" />
+    <Compile Include="Services\TestEntity\TestSevice.cs" />
+    <Compile Include="Services\UserDisciplineEntity\IUserDisciplinesService.cs" />
+    <Compile Include="Services\UserDisciplineEntity\UserDisciplinesService.cs" />
+    <Compile Include="Services\UserRoleEntity\IUserRoleService.cs" />
+    <Compile Include="Services\UserRoleEntity\UserRoleService.cs" />
     <Compile Include="Services\UsersEntity\IUsersService.cs" />
     <Compile Include="Services\UsersEntity\UsersService.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <EntityDeploy Include="Models\WIPCreamModels.edmx">
-      <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>WIPCreamModels.Designer.cs</LastGenOutput>
-    </EntityDeploy>
-    <None Include="Models\WIPCreamModels.edmx.diagram">
-      <DependentUpon>WIPCreamModels.edmx</DependentUpon>
-    </None>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Start\" />
     <Folder Include="Common\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="Models\WIPCreamModels.Context.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>WIPCreamModels.edmx</DependentUpon>
-      <LastGenOutput>WIPCreamModels.Context.cs</LastGenOutput>
-    </Content>
-    <Content Include="Models\WIPCreamModels.tt">
-      <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>WIPCreamModels.edmx</DependentUpon>
-      <LastGenOutput>WIPCreamModels.cs</LastGenOutput>
-    </Content>
   </ItemGroup>
   <ItemGroup>
     <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
